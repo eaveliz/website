@@ -1,0 +1,135 @@
+baseurl = "/"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "es"
+title = "Esteban Veliz"
+theme = "beautifulhugo"
+enableEmoji = true
+copyright = "&copy; 2020 Esteban Andres Veliz"
+footnotereturnlinkcontents = "<sup>^</sup>"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  homeTitle = "Esteban Veliz" # Set a different text for the header on the home page
+  subtitle = "PhD candidate at UC Davis, California"
+#  mainSections = []
+  logo = "img/avatar-radiolarium.png" # Expecting square dimensions
+#  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = true
+  wordCount = false
+  useHLJS = true
+  socialShare = false
+  delayDisqus = false
+  showRelatedPosts = true
+  hideAuthor = true
+
+  
+[permalinks]
+  post = "/:title/"
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Esteban Veliz"
+#  website = "veliz.netlify.app"
+#  email = """
+#  facebook = "username"
+#  google-scholar = "FSLotfsAAAAJ"
+#  github = "eaveliz"
+#  gitlab = "username"
+#  bitbucket = "username"
+#  twitter = "username"
+#  reddit = "username"
+#  linkedin = "username"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+#  instagram = "username"
+#  youtube = "user/username" # or channel/channelname
+#  soundcloud = "username"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  vk = "username"
+#  paypal = "username"
+#  telegram = "username"
+#  500px = "username"
+#  codepen = "username"
+#  mastodon = "url"
+#  kaggle = "username"
+#  weibo = "username"
+#  slack = "username"
+
+[[menu.main]]
+    name = "Research"
+    url = "Research"
+    weight = 1
+
+#[[menu.main]]
+#    identifier = "articles"
+#    name = "Articles"
+#    weight = 3
+#
+#[[menu.main]]
+#    parent = "articles"
+#    name = "Nitrogen"
+#    url = "post/2017-03-07-bigimg-sample"
+#    weight = 1
+#
+#[[menu.main]]
+#    parent = "articles"
+#    name = "Carbon"
+#    url = "post/2017-03-05-math-sample"
+#    weight = 2
+#
+#[[menu.main]]
+#    parent = "articles"
+#    name = "Symbiosis"
+#    url = "post/2016-03-08-code-sample"
+#    weight = 3
+
+
+[[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    weight = 10
+
+[[menu.main]]
+    parent = "resources"
+    name = "Bookshelf"
+    url = "bookshelf"
+    weight = 1
+
+[[menu.main]]
+    parent = "resources"
+    name = "Links"
+    url = "links"
+    weight = 3
+
+[[menu.main]]
+    name = "About/Contact"
+    url = "about"
+    weight = 15

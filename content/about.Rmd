@@ -1,0 +1,48 @@
+---
+title: Esteban Veliz
+subtitle: Bio and Brief CV
+comments: false
+---
+<img align="right" src="/img/photo-front.png">
+I am currently in the Sundaresan lab at UC Davis studying how rice roots assemble a microbiome. One of my main long-term goals is to develop a microbiome-informed agronomy taking into account the evolutionary and ecological complexity of how plants and microbiota dynamically interact. 
+
+Some of my research interests include:
+
+- The rhizosphere effect and plant immune interactions with microbiota.
+- The symbiosis spectrum of the root microbiome: pathogens, commensals, and mutualists.
+- Microbiome dynamics specific to agricultural systems.
+
+---
+
+## Education
+#### &nbsp;&nbsp;&nbsp;&nbsp; PhD Candidate in Plant Biology 
+<sup> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of California, Davis (UC Davis), Davis, California, 2017 - in progress.</sup>
+
+#### &nbsp;&nbsp;&nbsp;&nbsp; BSc in Molecular, Cell, and Developmental Biology (MCDB)  
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of California, Los Angeles (UCLA), Los Angeles, California, March 2017.</sup>
+
+---
+
+## Experience
+#### Research Assistant (PI: Venkatesan Sundaresan)  
+<sup>Plant Biology Department, UC Davis; 2018 - present </sup>  
+Investigating the rice (_Oryza sativa_) root microbiome, how plants assemble their root microbiome.
+
+#### Research Assistant (PI: Ann M. Hirsch)    
+<sup> MCDB Department, UCLA;  June 2015 - June 2017 </sup>  
+Investigated symbiotic plant-microbe interactions in the _Medicago_ root nodule microbiome. Using aseptic technique, microscopy, nucleotide extraction, PCR, and sequencing to examine functional and phylogenetic diversity of soil, rhizosphere, and root nodule bacteria. Annotated and performed bioinformatic analysis of bacterial genomes, using curated databases such as JGI IMG-Expert Review, KEGG, CAZy, KOG, and Pfam to make functional predictions for subsequent in vitro validation. Conducted statistical data analysis and created graphics in R.
+
+---
+
+## Awards  
+National Science Foundation Graduate Research Fellowship (NSF GRFP): 2017 - present. 
+
+UC Davis Dean’s Distinguished Graduate (DDG) Fellowship: 2017 - 2018.  
+
+MSD Scholars Fellowship (through NIH MBRS IMSD grant): 2016 - 2017.  
+
+CAMP (LSAMP) Statewide Symposium Honorable Mention: 2016.  
+
+CARE Scholars Fellowship: 2015 – 2016.  
+
+CARE Fellows Fellowship: 2015  
