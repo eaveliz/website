@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Esteban Veliz</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on Esteban Veliz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2020 Esteban Andres Veliz</copyright>
+    
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>front</title>
+      <link>/page/front/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/front/</guid>
+      <description>I study how agricultural root microbiomes assemble, focusing on processes and mechanisms that can inform the development of appropriate tools for sustainable intensive agriculture.</description>
+    </item>
+    
+  </channel>
+</rss>

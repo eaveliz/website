@@ -3,6 +3,12 @@ title: Esteban Veliz
 subtitle: Bio and Brief CV
 comments: false
 ---
+{{< columns >}}
+This is column 1.
+{{< column >}}
+This is column 2.
+{{< endcolumn >}}
+
 <img align="right" src="/img/photo-front.png">
 I am currently in the Sundaresan lab at UC Davis studying how rice roots assemble a microbiome. One of my main long-term goals is to develop a microbiome-informed agronomy taking into account the evolutionary and ecological complexity of how plants and microbiota dynamically interact. 
 
