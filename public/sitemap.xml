@@ -8,6 +8,10 @@
   </url>
   
   <url>
+    <loc>/bookshelf/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
@@ -17,6 +21,14 @@
   
   <url>
     <loc>/front/</loc>
+  </url>
+  
+  <url>
+    <loc>/links/</loc>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
   </url>
   
   <url>

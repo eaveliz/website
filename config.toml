@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/" 
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "es"
 title = "Esteban Veliz"
@@ -22,7 +22,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   subtitle = "PhD candidate at UC Davis, California"
   mainSections = ["about"]
   logo = "img/avatar-radiolarium.png" # Expecting square dimensions
-#  favicon = "img/favicon.ico"
+  favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = false
@@ -37,7 +37,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   
 [permalinks]
-  post = "/:title/"
+    post = "/:year/:month/:day/:slug/"
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
@@ -135,6 +135,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 3
 
 [[menu.main]]
-    name = "About/Contact"
+    name = "About"
     url = "about"
     weight = 15

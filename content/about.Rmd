@@ -1,31 +1,17 @@
 ---
 title: Esteban Veliz
-subtitle: Bio and Brief CV
+subtitle: Brief CV
 comments: false
 ---
-{{< columns >}}
-This is column 1.
-{{< column >}}
-This is column 2.
-{{< endcolumn >}}
-
-<img align="right" src="/img/photo-front.png">
-I am currently in the Sundaresan lab at UC Davis studying how rice roots assemble a microbiome. One of my main long-term goals is to develop a microbiome-informed agronomy taking into account the evolutionary and ecological complexity of how plants and microbiota dynamically interact. 
-
-Some of my research interests include:
-
-- The rhizosphere effect and plant immune interactions with microbiota.
-- The symbiosis spectrum of the root microbiome: pathogens, commensals, and mutualists.
-- Microbiome dynamics specific to agricultural systems.
-
+<img style="float: right;margin-left:15px;" src="/img/photo-front.png">
 ---
 
 ## Education
-#### &nbsp;&nbsp;&nbsp;&nbsp; PhD Candidate in Plant Biology 
-<sup> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of California, Davis (UC Davis), Davis, California, 2017 - in progress.</sup>
+#### PhD Candidate in Plant Biology 
+<sup> University of California, Davis (UC Davis), Davis, California, 2017 - in progress.</sup>
 
-#### &nbsp;&nbsp;&nbsp;&nbsp; BSc in Molecular, Cell, and Developmental Biology (MCDB)  
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of California, Los Angeles (UCLA), Los Angeles, California, March 2017.</sup>
+#### BSc in Molecular, Cell, and Developmental Biology (MCDB)  
+<sup> University of California, Los Angeles (UCLA), Los Angeles, California, March 2017.</sup>
 
 ---
 

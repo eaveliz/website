@@ -1,0 +1,20 @@
+---
+title: Research
+subtitle: Agricultural plant-microbiota interactions
+comments: false
+---
+## Research Goals and Interests
+My long-term goal is to develop a microbiome-informed agronomy taking into account the evolutionary and ecological complexity of plant-microbiota interactions.
+
+Some of my interests include:  
+
+- The rhizosphere effect and plant immune interactions with microbiota.  
+- The symbiosis spectrum of the root microbiome: pathogens, commensals, and mutualists.  
+- Microbiome dynamics specific to agricultural systems.
+
+---
+
+## Publications  
+Edwards, J., Santos-Medellín, C., Nguyen, B., Kilmer, J., Liechty, Z., **Veliz, E.**, Ni, J., Phillips, G.,  Sundaresan, V. (2019). *Soil domestication by rice cultivation results in plant-soil feedback through shifts in soil microbiota.* Genome Biology 2019 20:1, 20(1), 1–14. https://doi.org/10.1186/s13059-019-1825-x  
+
+**Veliz, Esteban A.**, Martínez-Hidalgo, Pilar, Hirsch, Ann M., *Chitinase-producing bacteria and their role in biocontrol.* (Review) AIMS Microbiology, 2017, 3(3): 689-705. https://doi.org/10.3934/microbiol.2017.3.689 
