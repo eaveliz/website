@@ -6,29 +6,38 @@ comments: false
 ## <i class="fas fa-seedling"></i> Agriculture  
 
 - Denison. *Darwinian Agriculture: How Understanding Evolution Can Improve Agriculture.*  
+
 - Brown. *Feed or Feedback: Agriculture, Population Dynamics and the State of the Planet.*  
 
 ---
 
-## <i class="fas fa-microscope"></i> Microbiology  
+## <i class="fas fa-microscope"></i> Microbes  
 
-
-- O'Malley. *Philosophy of Microbiology*
-- Kolter and Chimileski. *Life at the Edge of Sight: A Photographic Exploration of the Microbial World.*   
 - Ingraham. *March of the Microbes: Sighting the Unseen.*
+
+- Kolter and Chimileski. *Life at the Edge of Sight: A Photographic Exploration of the Microbial World.*
+
+- O'Malley. *Philosophy of Microbiology.*  
+
 
 ---
 
-## <i class="fas fa-leaf"></i> Plant Biology  
+## <i class="fas fa-leaf"></i> Plants  
 
 - Trewavas. *Plant Behavior & Intelligence.*
 
 ---
 
 ## <i class="fas fa-book-open"></i> General
+
 ### Biology
+
 - Sapp. *Evolution by Association: A History of Symbiosis* 
 
-### Complexity Science
+### Complex Systems
 
-- Mitchell. *Complexity: A Guided Tour.*
+- Bechtel and Richardson. *Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research.*
+
+- Rosen. *Life Itself: A Comprehensive Inquiry Into the Nature, Origin, and Fabrication of Life.*
+
+- Wimsatt. *Re-Engineering Philosophy for Limited Beings: Piecewise Approximations to Reality.*
