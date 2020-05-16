@@ -1,14 +1,20 @@
 [[social_icons]]
 id = "email"
-url = "mailto:%s"
+url = "contact"
 title = "Email me"
 icon = "fas fa-envelope"
 
 [[social_icons]]
 id = "google-scholar"
 url = "https://scholar.google.com/citations?user=%s"
-title= "Google Scholar"
-icon = "fab ai-google-scholar"
+title= "Google Scholar Profile"
+icon = "ai ai-google-scholar"
+
+[[social_icons]]
+id = "orcid"
+url = "https://orcid.org/%s"
+title= "ORCID Profile"
+icon = "ai ai-orcid"
 
 [[social_icons]]
 id = "facebook"
@@ -19,7 +25,7 @@ icon = "fab fa-facebook"
 [[social_icons]]
 id = "github"
 url = "https://github.com/%s"
-title = "GitHub"
+title = "My GitHub"
 icon = "fab fa-github"
 
 [[social_icons]]

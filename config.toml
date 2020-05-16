@@ -34,7 +34,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   delayDisqus = false
   showRelatedPosts = true
   hideAuthor = true
-
   
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -52,13 +51,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
-[Author]
+[Author] 
   name = "Esteban Veliz"
 #  website = "veliz.netlify.app"
 #  email = """
 #  facebook = "username"
-#  google-scholar = "FSLotfsAAAAJ"
-#  github = "eaveliz"
+  google-scholar = "FSLotfsAAAAJ"
+  github = "eaveliz"
+  orcid = "0000-0002-7037-410X"
 #  gitlab = "username"
 #  bitbucket = "username"
 #  twitter = "username"
@@ -135,6 +135,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 3
 
 [[menu.main]]
-    name = "About"
+    name = "CV"
     url = "about"
     weight = 15
