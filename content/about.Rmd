@@ -6,7 +6,7 @@ comments: false
 <img style="float: right;margin-left:15px;" src="/img/photo-front.png">
 ---
 
-## Education
+## <i class="fas fa-graduation-cap"></i> Education
 #### PhD Candidate in Plant Biology 
 <sup> University of California, Davis (UC Davis), Davis, California, 2017 - in progress.</sup>
 
@@ -15,7 +15,7 @@ comments: false
 
 ---
 
-## Experience
+## <i class="fas fa-flask"></i> Experience
 #### Research Assistant (PI: Venkatesan Sundaresan)  
 <sup>Plant Biology Department, UC Davis; 2018 - present </sup>  
 Investigating the rice (_Oryza sativa_) root microbiome, how plants assemble their root microbiome.
@@ -26,7 +26,7 @@ Investigated symbiotic plant-microbe interactions in the _Medicago_ root nodule 
 
 ---
 
-## Awards  
+## <i class="fas fa-award"></i> Awards  
 National Science Foundation Graduate Research Fellowship (NSF GRFP): 2017 - present. 
 
 UC Davis Dean’s Distinguished Graduate (DDG) Fellowship: 2017 - 2018.  

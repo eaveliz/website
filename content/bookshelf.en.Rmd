@@ -1,11 +1,34 @@
 ---
 title: Bookshelf
-subtitle: Books I recommend and/or am currently enjoying.
+subtitle: Recommended Books
 comments: false
 ---
+## <i class="fas fa-seedling"></i> Agriculture  
 
-## Symbiosis
+- Denison. *Darwinian Agriculture: How Understanding Evolution Can Improve Agriculture.*  
+- Brown. *Feed or Feedback: Agriculture, Population Dynamics and the State of the Planet.*  
 
-## Agriculture and Agronomy
+---
 
-## 
+## <i class="fas fa-microscope"></i> Microbiology  
+
+
+- O'Malley. *Philosophy of Microbiology*
+- Kolter and Chimileski. *Life at the Edge of Sight: A Photographic Exploration of the Microbial World.*   
+- Ingraham. *March of the Microbes: Sighting the Unseen.*
+
+---
+
+## <i class="fas fa-leaf"></i> Plant Biology  
+
+- Trewavas. *Plant Behavior & Intelligence.*
+
+---
+
+## <i class="fas fa-book-open"></i> General
+### Biology
+- Sapp. *Evolution by Association: A History of Symbiosis* 
+
+### Complexity Science
+
+- Mitchell. *Complexity: A Guided Tour.*
