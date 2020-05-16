@@ -3,7 +3,9 @@ title: Esteban Veliz
 subtitle: Brief Curriculum Vitae
 comments: false
 ---
-<img style="float: left;margin-right:15px;" src="/img/photo-front.png">
+
+<img style="float: left;margin-right:15px;" src="/img/photo-front.png">  
+
 ---
 
 ## <i class="fas fa-graduation-cap"></i>Education
