@@ -3,11 +3,11 @@ title: Esteban Veliz
 subtitle: Brief Curriculum Vitae
 comments: false
 ---
-<img style="float: left;margin-right:15px;" src="/img/photo-front.png">
----
 
-## <i class="fas fa-graduation-cap"></i>Education
-#### PhD Candidate in Plant Biology 
+<img style="float: left;margin-right:15px;" src="/img/photo-front.png">  
+  
+## <i class="fas fa-graduation-cap"></i>Education  
+#### PhD Candidate in Plant Biology  
 <sup> University of California, Davis (UC Davis), Davis, California, 2017 - in progress.</sup>
 
 #### BSc in Molecular, Cell, and Developmental Biology (MCDB)  
