@@ -3,7 +3,7 @@ title: Investigación
 subtitle: Interacciones planta-microbiota agrícolas 
 comments: false
 ---
-## Metas de investigación e intereses
+## Metas e intereses de investigación
 Mi meta a largo plazo es desarollar una agronomía informada por microbiomas, tomando en cuenta la complejidad ecológica y evolutiva de las interacciones planta-microbiota.
 
 Algunos de mis intereses incluyen:
