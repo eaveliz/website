@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esteban Véliz</title>
+    <link>/es/</link>
+    <description>Recent content on Esteban Véliz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Esteban Véliz</title>
+      <link>/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/about/</guid>
+      <description>EducacíonCandidato PhD en Biología de Plantas University of California, Davis (UC Davis), Davis, California, 2017 - en progreso.
+BSc Biología Molecular, Celular, y del Desarollo Universidad de California, Los Ángeles (UCLA), Los Ángeles, California, 2017.
+ ExperienciaAsistente de Investigación (PI: Venkatesan Sundaresan)Departmento de Biología de Plantas, UC Davis; 2018 - presente 
+Estoy investigando el microbioma de las raíces de arroz (Oryza sativa), particularmento como plantas ensamblan microbiomas en las raíces.</description>
+    </item>
+    
+    <item>
+      <title>Investigación</title>
+      <link>/es/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/research/</guid>
+      <description>Metas de investigación e interesesMi meta a largo plazo es desarollar una agronomía informada por microbiomas, tomando en cuenta la complejidad ecológica y evolutiva de las interacciones planta-microbiota.
+Algunos de mis intereses incluyen:
+El efecto rizosfera e interacciones del sistema imune de plantas con la microbiota.
+El espectro de simbiósis en el microbioma de raíces patógenos, comensales, y mutualistas.
+Dinámicas de microbiomas específicas a sistemas agrícolas.</description>
+    </item>
+    
+  </channel>
+</rss>

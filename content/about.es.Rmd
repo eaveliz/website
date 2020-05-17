@@ -1,0 +1,41 @@
+---
+title: Esteban Véliz
+subtitle: Currículum Vitae Breve
+comments: false
+---
+
+<img style="float: left;margin-right:15px;" src="/img/photo-front.png">  
+  
+  
+## <i class="fas fa-graduation-cap"></i>Educacíon  
+#### Candidato PhD en Biología de Plantas  
+<sup> University of California, Davis (UC Davis), Davis, California, 2017 - en progreso.</sup>
+
+#### BSc Biología Molecular, Celular, y del Desarollo   
+<sup> Universidad de California, Los Ángeles (UCLA), Los Ángeles, California, 2017.</sup>
+
+---
+
+## <i class="fas fa-flask"></i> Experiencia
+#### Asistente de Investigación (PI: Venkatesan Sundaresan)  
+<sup>Departmento de Biología de Plantas, UC Davis; 2018 - presente </sup>  
+Estoy investigando el microbioma de las raíces de arroz (_Oryza sativa_), particularmento como plantas ensamblan microbiomas en las raíces.
+
+#### Asistente de Investigación (PI: Ann M. Hirsch)    
+<sup> Departmento de Biología Molecular, Celular, y del Desarollo, UCLA;  Junio 2015 - Junio 2017 </sup>  
+Investigué interacciones simbióticas en el microbioma del nódulo de raíz de _Medicago_. Usando técnica aséptica, microscopía, extracción de nucleótidos, PCR, y secuenciación, examiné la diversidad funcional y filogenética de las bacterias en el suelo, la rizosfera, y el nódulo de raíz. Hice anotaciones funcionales y análisis bioinformáticas de genomas bacterianas, usando base de datos como JGI IMG-Expert Review, KEGG, CAZy, KOG, y Pfam para hacer predicciones funcionales para validación subsecuente in vitro. Llevé a cabo análisis estadísticos de datos y creé gráficos en R.
+
+---
+
+## <i class="fas fa-award"></i> Becas y Premios  
+National Science Foundation Graduate Research Fellowship (NSF GRFP): 2017 - present. 
+
+UC Davis Dean’s Distinguished Graduate (DDG) Fellowship: 2017 - 2018.  
+
+MSD Scholars Fellowship (through NIH MBRS IMSD grant): 2016 - 2017.  
+
+CAMP (LSAMP) Statewide Symposium Honorable Mention: 2016.  
+
+CARE Scholars Fellowship: 2015 – 2016.  
+
+CARE Fellows Fellowship: 2015  

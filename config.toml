@@ -1,7 +1,6 @@
 baseurl = "/" 
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "es"
-title = "Esteban Veliz"
 theme = "beautifulhugo"
 enableEmoji = true
 #copyright = "&copy; 2020 Esteban Andres Veliz"
@@ -20,7 +19,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [Params]
   homeTitle = "Esteban Veliz" # Set a different text for the header on the home page
   subtitle = "PhD candidate at UC Davis, California"
-  mainSections = ["about"]
+#  mainSections = ["about"]
   logo = "img/avatar-radiolarium.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -34,10 +33,142 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   delayDisqus = false
   showRelatedPosts = true
   hideAuthor = true
-  
+
+##### --------------- Languages -----------
+[languages]
+
+[languages.en]
+    title = "Esteban Veliz"
+    weight = 1
+
+[[languages.en.menu.main]]
+    name = "Research"
+    url = "Research"
+    weight = 1
+
+#[[languages.en.menu.main]]
+#    name = "Notebook"
+#    url = "notebook"
+#    weight = 15
+
+#[[languages.en.menu.main]]
+#    identifier = "articles"
+#    name = "Articles"
+#    weight = 3
+#
+#[[languages.en.menu.main]]
+#    parent = "articles"
+#    name = "Nitrogen"
+#    url = "post/2017-03-07-bigimg-sample"
+#    weight = 1
+#
+#[[languages.en.menu.main]]
+#    parent = "articles"
+#    name = "Carbon"
+#    url = "post/2017-03-05-math-sample"
+#    weight = 2
+#
+#[[languages.en.menu.main]]
+#    parent = "articles"
+#    name = "Symbiosis"
+#    url = "post/2016-03-08-code-sample"
+#    weight = 3
+
+
+[[languages.en.menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    weight = 10
+
+[[languages.en.menu.main]]
+    parent = "resources"
+    name = "Bookshelf"
+    url = "bookshelf"
+    weight = 1
+
+[[languages.en.menu.main]]
+    parent = "resources"
+    name = "Links"
+    url = "links"
+    weight = 3
+
+[[languages.en.menu.main]]
+    name = "CV"
+    url = "about"
+    weight = 15
+    
+# --------------------------- Español 
+
+[languages.es]
+    title = "Esteban Véliz"
+    weight = 2
+    [languages.es.params]
+    homeTitle = "Esteban Véliz"
+    subtitle = "Candidato de PhD en UC Davis, California"
+
+[[languages.es.menu.main]]
+    name = "Investigación"
+    url = "research"
+    weight = 1
+
+#[[languages.en.menu.main]]
+#    name = "Cuaderno"
+#    url = "notebook"
+#    weight = 15
+
+#[[languages.en.menu.main]]
+#    identifier = "articles"
+#    name = "Articles"
+#    weight = 3
+#
+#[[languages.en.menu.main]]
+#    parent = "articles"
+#    name = "Nitrogen"
+#    url = "post/2017-03-07-bigimg-sample"
+#    weight = 1
+#
+#[[languages.en.menu.main]]
+#    parent = "articles"
+#    name = "Carbon"
+#    url = "post/2017-03-05-math-sample"
+#    weight = 2
+#
+#[[languages.en.menu.main]]
+#    parent = "articles"
+#    name = "Symbiosis"
+#    url = "post/2016-03-08-code-sample"
+#    weight = 3
+
+
+#[[languages.es.menu.main]]
+#    identifier = "resources"
+#    name = "Recursos"
+#    weight = 10
+#
+#[[languages.es.menu.main]]
+#    parent = "resources"
+#    name = "Librero"
+#    url = "bookshelf"
+#    weight = 1
+#
+#[[languages.es.menu.main]]
+#    parent = "resources"
+#    name = "Enlaces"
+#    url = "links"
+#    weight = 3
+
+[[languages.es.menu.main]]
+    name = "CV"
+    url = "about"
+    weight = 15
+
+# -------------------- End Languages
+
+
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -83,58 +214,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #  weibo = "username"
 #  slack = "username"
 
-[[menu.main]]
-    name = "Research"
-    url = "Research"
-    weight = 1
-
-#[[menu.main]]
-#    name = "Notebook"
-#    url = "notebook"
-#    weight = 15
-
-#[[menu.main]]
-#    identifier = "articles"
-#    name = "Articles"
-#    weight = 3
-#
-#[[menu.main]]
-#    parent = "articles"
-#    name = "Nitrogen"
-#    url = "post/2017-03-07-bigimg-sample"
-#    weight = 1
-#
-#[[menu.main]]
-#    parent = "articles"
-#    name = "Carbon"
-#    url = "post/2017-03-05-math-sample"
-#    weight = 2
-#
-#[[menu.main]]
-#    parent = "articles"
-#    name = "Symbiosis"
-#    url = "post/2016-03-08-code-sample"
-#    weight = 3
-
-
-[[menu.main]]
-    identifier = "resources"
-    name = "Resources"
-    weight = 10
-
-[[menu.main]]
-    parent = "resources"
-    name = "Bookshelf"
-    url = "bookshelf"
-    weight = 1
-
-[[menu.main]]
-    parent = "resources"
-    name = "Links"
-    url = "links"
-    weight = 3
-
-[[menu.main]]
-    name = "CV"
-    url = "about"
-    weight = 15
