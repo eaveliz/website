@@ -7,7 +7,7 @@ comments: false
 <img style="float: left;margin-right:15px;" src="/img/photo-front.png">  
   
   
-## <i class="fas fa-graduation-cap"></i>Educacíon  
+## <i class="fas fa-graduation-cap"></i>Educación  
 #### Candidato PhD en Biología de Plantas  
 <sup> University of California, Davis (UC Davis), Davis, California, 2017 - en progreso.</sup>
 
