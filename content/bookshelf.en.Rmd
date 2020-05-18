@@ -3,13 +3,6 @@ title: Bookshelf
 subtitle: Recommended Books
 comments: false
 ---
-## <i class="fas fa-seedling"></i> Agriculture  
-
-- Denison. *Darwinian Agriculture: How Understanding Evolution Can Improve Agriculture.*  
-
-- Brown. *Feed or Feedback: Agriculture, Population Dynamics and the State of the Planet.*  
-
----
 
 ## <i class="fas fa-microscope"></i> Microbes  
 
@@ -19,12 +12,19 @@ comments: false
 
 - O'Malley. *Philosophy of Microbiology.*  
 
-
 ---
 
 ## <i class="fas fa-leaf"></i> Plants  
 
 - Trewavas. *Plant Behavior & Intelligence.*
+
+---
+
+## <i class="fas fa-seedling"></i> Agriculture  
+
+- Denison. *Darwinian Agriculture: How Understanding Evolution Can Improve Agriculture.*  
+
+- Brown. *Feed or Feedback: Agriculture, Population Dynamics and the State of the Planet.*  
 
 ---
 

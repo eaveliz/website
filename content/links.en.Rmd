@@ -6,8 +6,9 @@ comments: false
 
 (Under construction.)
 
-## <i class="fas fa-seedling"></i> Agriculture 
 
-## <i class="fas fa-microscope"></i> Microbiology  
+## <i class="fas fa-microscope"></i> Microbes  
 
-## <i class="fas fa-leaf"></i> Plant Biology  
+## <i class="fas fa-leaf"></i> Plants  
+
+## <i class="fas fa-seedling"></i> Agriculture
