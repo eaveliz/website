@@ -7,13 +7,19 @@ icon = "fas fa-envelope"
 [[social_icons]]
 id = "google-scholar"
 url = "https://scholar.google.com/citations?user=%s"
-title= "Google Scholar Profile"
+title= "Google Scholar"
 icon = "ai ai-google-scholar"
+
+[[social_icons]]
+id = "researchgate"
+url = "https://www.researchgate.net/profile/%s"
+title= "ResearchGate"
+icon = "ai ai-researchgate"
 
 [[social_icons]]
 id = "orcid"
 url = "https://orcid.org/%s"
-title= "ORCID Profile"
+title= "ORCID"
 icon = "ai ai-orcid"
 
 [[social_icons]]

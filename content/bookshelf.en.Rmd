@@ -6,9 +6,11 @@ comments: false
 
 ## <i class="fas fa-microscope"></i> Microbes  
 
-- Ingraham. *March of the Microbes: Sighting the Unseen.*
+- de Kruif. *Microbe Hunters.*  
 
-- Kolter and Chimileski. *Life at the Edge of Sight: A Photographic Exploration of the Microbial World.*
+- Ingraham. *March of the Microbes: Sighting the Unseen.*  
+
+- Kolter and Chimileski. *Life at the Edge of Sight: A Photographic Exploration of the Microbial World.*  
 
 - O'Malley. *Philosophy of Microbiology.*  
 
@@ -16,28 +18,38 @@ comments: false
 
 ## <i class="fas fa-leaf"></i> Plants  
 
-- Trewavas. *Plant Behavior & Intelligence.*
+- Karban. *Plant Sensing & Communication.*  
+
+- Trewavas. *Plant Behavior & Intelligence.*  
 
 ---
 
 ## <i class="fas fa-seedling"></i> Agriculture  
 
+- Brown. *Feed or Feedback: Agriculture, Population Dynamics and the State of the Planet.* 
+
 - Denison. *Darwinian Agriculture: How Understanding Evolution Can Improve Agriculture.*  
 
-- Brown. *Feed or Feedback: Agriculture, Population Dynamics and the State of the Planet.*  
+- Smil. *Enriching the Earth: Fritz Haber, Carl Bosch, and the Transformation of World Food Production.*
 
 ---
 
 ## <i class="fas fa-book-open"></i> General
 
-### Biology
+### <i class="fas fa-dna"></i> Biology
 
-- Sapp. *Evolution by Association: A History of Symbiosis* 
+- Kozo-Polyansky. *Symbiogenesis: A New Principle of Evolution.*
 
-### Complex Systems
+- Levins and Lewontin. *The Dialectical Biologist.*
+
+- Sapp. *Evolution by Association: A History of Symbiosis.* 
+
+### <i class="far fa-snowflake"></i> Complex Systems
 
 - Bechtel and Richardson. *Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research.*
 
 - Rosen. *Life Itself: A Comprehensive Inquiry Into the Nature, Origin, and Fabrication of Life.*
 
 - Wimsatt. *Re-Engineering Philosophy for Limited Beings: Piecewise Approximations to Reality.*
+
+

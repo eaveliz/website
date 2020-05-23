@@ -9,21 +9,22 @@ comments: false
   
 ## <i class="fas fa-graduation-cap"></i>Education  
 #### PhD Candidate in Plant Biology  
-<sup> University of California, Davis (UC Davis), Davis, California, 2017 - in progress.</sup>
+<sup> University of California, Davis (UC Davis), Davis, California. In progress.</sup>
 
 #### BSc in Molecular, Cell, and Developmental Biology (MCDB)  
-<sup> University of California, Los Angeles (UCLA), Los Angeles, California, March 2017.</sup>
+<sup> University of California, Los Angeles (UCLA), Los Angeles, California. March 2017.</sup>
 
 ---
 
 ## <i class="fas fa-flask"></i> Experience
 #### Research Assistant (PI: Venkatesan Sundaresan)  
 <sup>Plant Biology Department, UC Davis; 2018 - present </sup>  
-Investigating the rice (_Oryza sativa_) root microbiome, how plants assemble their root microbiome.
+Investigating the rice (_Oryza sativa_) root microbiome, how plants assemble their root microbiome.  
+&nbsp;  
 
 #### Research Assistant (PI: Ann M. Hirsch)    
 <sup> MCDB Department, UCLA;  June 2015 - June 2017 </sup>  
-Investigated symbiotic plant-microbe interactions in the _Medicago_ root nodule microbiome. Using aseptic technique, microscopy, nucleotide extraction, PCR, and sequencing to examine functional and phylogenetic diversity of soil, rhizosphere, and root nodule bacteria. Annotated and performed bioinformatic analysis of bacterial genomes, using curated databases such as JGI IMG-Expert Review, KEGG, CAZy, KOG, and Pfam to make functional predictions for subsequent in vitro validation. Conducted statistical data analysis and created graphics in R.
+Investigated symbiotic plant-microbe interactions in the _Medicago_ root nodule microbiome. Using aseptic technique, microscopy, nucleotide extraction, PCR, and sequencing to examine functional and phylogenetic diversity of soil, rhizosphere, and root nodule bacteria. Annotated and performed bioinformatic analysis of bacterial genomes, using curated databases such as JGI IMG-Expert Review, KEGG, CAZy, KOG, and Pfam to make functional predictions for subsequent in vitro validation. Conducted statistical data analysis and created graphics in R.  
 
 ---
 

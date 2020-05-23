@@ -18,9 +18,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Params]
   homeTitle = "Esteban Veliz" # Set a different text for the header on the home page
-  subtitle = "PhD candidate at UC Davis, California"
+#  subtitle = "PhD candidate at UC Davis, California"
 #  mainSections = ["about"]
-  logo = "img/avatar-radiolarium.png" # Expecting square dimensions
+ logo = "img/avatar-haeckel.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -104,7 +104,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 2
     [languages.es.params]
     homeTitle = "Esteban Véliz"
-    subtitle = "Candidato de PhD en UC Davis, California"
+ #   subtitle = "Candidato de PhD en UC Davis, California"
 
 [[languages.es.menu.main]]
     name = "Investigación"
@@ -190,6 +190,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   google-scholar = "FSLotfsAAAAJ"
   github = "eaveliz"
   orcid = "0000-0002-7037-410X"
+  researchgate = "Esteban_Veliz"
 #  gitlab = "username"
 #  bitbucket = "username"
 #  twitter = "username"

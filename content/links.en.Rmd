@@ -4,11 +4,26 @@ subtitle: Useful and Interesting Websites
 comments: false
 ---
 
-(Under construction.)
-
-
 ## <i class="fas fa-microscope"></i> Microbes  
 
+- [LPSN - comprehensive information on the nomenclature of prokaryotes](https://www.bacterio.net/)
+- [Digital Atlas of Actinomycetes](http://www.actino.jp/DigitalAtlas/)  
+- [MicrobeWiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki)
+- [NZ Rhizobia - rhizobial taxonomy pages](https://www.rhizobia.co.nz/taxonomy)
+- [MicrobeTV - Great series of podcasts about microbes ](https://www.microbe.tv/)
+
 ## <i class="fas fa-leaf"></i> Plants  
+- [Teaching Tools in Plant Biology](http://www.plantcell.org/content/teaching-tools-plant-biology)
+- [Plant Metabolic Pathway Databases](https://plantcyc.org/)
 
 ## <i class="fas fa-seedling"></i> Agriculture
+- [OneSoil - interactive map to compare fields and crops in Europe and the USA](https://map.onesoil.ai/)
+- [ProMED-mail - latest reporting on infectious diseases in humans, animals, and plants](https://promedmail.org/)
+
+## <i class="fas fa-book-open"></i> General
+### <i class="fas fa-dna"></i> Biology
+- [Biological Nitrogen Fixation (paywall)](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119053095)
+
+### <i class="far fa-snowflake"></i> Complex Systems
+- [Santa Fe Institute](https://www.santafe.edu/)
+- [New England Complex Systems Institute](https://necsi.edu/)
