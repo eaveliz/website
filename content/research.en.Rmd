@@ -6,11 +6,12 @@ comments: false
 ## Research Goals and Interests
 My long-term goal is to develop a microbiome-informed agronomy taking into account the evolutionary and ecological complexity of plant-microbiota interactions.
 
-Some of my interests include:  
+My interests include:  
 
 - The rhizosphere effect and plant immune interactions with microbiota.  
+- Microbial roles in biogeochemical cycles (e.g.,nitrogen and carbon).  
 - The symbiosis spectrum of the root microbiome: pathogens, commensals, and mutualists.  
-- Microbiome dynamics specific to agricultural systems.
+- Microbiome dynamics in agricultural systems.  
 
 ---
 

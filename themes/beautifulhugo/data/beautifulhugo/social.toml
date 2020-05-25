@@ -31,7 +31,7 @@ icon = "fab fa-facebook"
 [[social_icons]]
 id = "github"
 url = "https://github.com/%s"
-title = "My GitHub"
+title = "GitHub"
 icon = "fab fa-github"
 
 [[social_icons]]

@@ -6,19 +6,24 @@ comments: false
 
 ## <i class="fas fa-microscope"></i> Microbes  
 
-- [LPSN - comprehensive information on the nomenclature of prokaryotes](https://www.bacterio.net/)
+- [LPSN - List of Prokaryotic names with Standing in Nomenclature](https://www.bacterio.net/)
+  - Comprehensive information on the nomenclature of prokaryotes
 - [Digital Atlas of Actinomycetes](http://www.actino.jp/DigitalAtlas/)  
 - [MicrobeWiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki)
-- [NZ Rhizobia - rhizobial taxonomy pages](https://www.rhizobia.co.nz/taxonomy)
-- [MicrobeTV - Great series of podcasts about microbes ](https://www.microbe.tv/)
+- [NZ Rhizobia](https://www.rhizobia.co.nz/taxonomy)
+  - Rhizobial taxonomy and some clarifications of some nomenclature
+- [MicrobeTV - This Week in.. (Microbiology, Evolution, Virology...) ](https://www.microbe.tv/)
+  - Excellent podcast suite all about microbes (ASM)
 
 ## <i class="fas fa-leaf"></i> Plants  
 - [Teaching Tools in Plant Biology](http://www.plantcell.org/content/teaching-tools-plant-biology)
 - [Plant Metabolic Pathway Databases](https://plantcyc.org/)
 
 ## <i class="fas fa-seedling"></i> Agriculture
-- [OneSoil - interactive map to compare fields and crops in Europe and the USA](https://map.onesoil.ai/)
-- [ProMED-mail - latest reporting on infectious diseases in humans, animals, and plants](https://promedmail.org/)
+- [OneSoil](https://map.onesoil.ai/)
+  - Interactive map to compare fields and crops in Europe and the USA
+- [ProMED-mail](https://promedmail.org/)
+  - Latest reporting on infectious diseases in humans, animals, and plants
 
 ## <i class="fas fa-book-open"></i> General
 ### <i class="fas fa-dna"></i> Biology

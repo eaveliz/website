@@ -9,8 +9,9 @@ Mi meta a largo plazo es desarollar una agronomía informada por microbiomas, to
 Algunos de mis intereses incluyen:
 
 - El efecto rizosfera e interacciones del sistema imune de plantas con la microbiota.  
-- El espectro de simbiósis en el microbioma de raíces patógenos, comensales, y mutualistas.  
-- Dinámicas de microbiomas específicas a sistemas agrícolas.
+- Los roles microbianos en ciclos biogeoquímicos (como nitrógeno y carbón).
+- El espectro de simbiósis en el microbioma de raíces: patógenos, comensales, y mutualistas.  
+- Dinámicas de microbiomas en sistemas agrícolas.
 
 ---
 
