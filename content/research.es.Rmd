@@ -3,6 +3,15 @@ title: Investigación
 subtitle: Interacciones planta-microbiota agrícolas 
 comments: false
 ---
+
+---
+
+<div align="center">*Siéntate como un niño pequeño ante los hechos y prepárate a abandonar cualquier noción preconcebida, sigue humildemente a donde quiera y hacia cualquier abismo que la naturaleza te lleve, o no vas a aprender nada.*
+Thomas Henry Huxley
+</div>
+
+---
+
 ## Metas e intereses de investigación
 Mi meta a largo plazo es desarollar una agronomía informada por microbiomas, tomando en cuenta la complejidad ecológica y evolutiva de las interacciones planta-microbiota.
 

@@ -4,10 +4,8 @@ subtitle: Brief Curriculum Vitae
 comments: false
 ---
 
-
 ![](/img/photo-front.png)
-  
-  
+
 ## <i class="fas fa-graduation-cap"></i>Education  
 #### PhD Candidate in Plant Biology  
 <sup> University of California, Davis (UC Davis), Davis, California. In progress.</sup>

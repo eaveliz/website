@@ -4,6 +4,14 @@ subtitle: Recommended Books
 comments: false
 ---
 
+---
+
+<div align="center">*Felix, qui potuit rerum cognoscere causas.*  
+Virgil, Georgica, lib. 2
+</div>
+
+---
+
 ## <i class="fas fa-microscope"></i> Microbes  
 
 - de Kruif. *Microbe Hunters.*  

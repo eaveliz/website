@@ -3,6 +3,15 @@ title: Research
 subtitle: Agricultural plant-microbiota interactions
 comments: false
 ---
+
+---
+
+<div align="center">*Sit down before fact like a little child, and be prepared to give up every preconceived notion, follow humbly wherever and to whatever abyss Nature leads or you shall learn nothing.*  
+Thomas Henry Huxley
+</div>
+
+---
+
 ## Research Goals and Interests
 My long-term goal is to develop a microbiome-informed agronomy taking into account the evolutionary and ecological complexity of plant-microbiota interactions.
 
