@@ -18,7 +18,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Params]
   homeTitle = "Esteban Veliz" # Set a different text for the header on the home page
-#  subtitle = "PhD candidate at UC Davis, California"
+  subtitle = "PhD candidate at UC Davis, California"
 #  mainSections = ["about"]
 # logo = "img/avatar-haeckel.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -104,7 +104,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 2
     [languages.es.params]
     homeTitle = "Esteban Véliz"
- #   subtitle = "Candidato de PhD en UC Davis, California"
+    subtitle = "Candidato de PhD en UC Davis, California"
 
 [[languages.es.menu.main]]
     name = "Investigación"
