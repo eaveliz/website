@@ -1,2 +1,2 @@
-En la actualidad estoy estudiando cómo se ensamblan microbiomas en raíces de plantas agrícolas. Mi investigación se enfoca en procesos y mecanismos que pueden informar el desarrollo de herramientas para una agricultura intensiva y sustentable.
+En la actualidad estoy estudiando cómo se ensamblan microbiomas en raíces de plantas agrícolas. Mi investigación se enfoca en procesos y mecanismos que pueden informar el desarrollo de herramientas adecuadas para una intensificación sustentable de la agricultura.
 ![Esteban en frente de una torre de agua en UC Davis.](/img/photo-frontlarge.png)
