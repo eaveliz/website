@@ -1,0 +1,9 @@
+---
+title: Gracias
+comments: false
+---
+
+<p>Estimado corresponsal,</p>  
+<p>Gracias por tu mensaje. Intentaré responderte oportunamente.  </p>
+Atentamente,  
+Esteban Véliz  

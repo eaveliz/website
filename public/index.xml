@@ -16,14 +16,22 @@
       
       <guid>/bookshelf/</guid>
       <description>Felix, qui potuit rerum cognoscere causas.
-Virgil, Georgica, lib. 2
- Microbesde Kruif. Microbe Hunters.
-Ingraham. March of the Microbes: Sighting the Unseen.
+Virgil, Georgica, lib. 21 MicrobesIngraham. March of the Microbes: Sighting the Unseen.
+Kirchman. Processes in Microbial Ecology.
 Kolter and Chimileski. Life at the Edge of Sight: A Photographic Exploration of the Microbial World.
 O’Malley. Philosophy of Microbiology.
  PlantsKarban. Plant Sensing &amp;amp; Communication.
 Trewavas. Plant Behavior &amp;amp; Intelligence.
  AgricultureBrown.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Don’t fill this out if you&#39;re human: </description>
     </item>
     
     <item>
@@ -68,6 +76,16 @@ Thomas Henry Huxley
 Research Goals and InterestsMy long-term goal is to develop a microbiome-informed agronomy taking into account the evolutionary and ecological complexity of plant-microbiota interactions.
 My interests include:
 The rhizosphere effect and plant immune interactions with microbiota.</description>
+    </item>
+    
+    <item>
+      <title>Thank you</title>
+      <link>/thank-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/thank-you/</guid>
+      <description>Dear correspondent,Thank you for your message. I will try to respond in a timely manner.Best regards,
+Esteban Veliz</description>
     </item>
     
   </channel>

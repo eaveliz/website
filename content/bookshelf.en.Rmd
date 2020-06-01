@@ -6,17 +6,17 @@ comments: false
 
 ---
 
-<div align="center">*Felix, qui potuit rerum cognoscere causas.*  
-Virgil, Georgica, lib. 2
-</div>
+  <div align="center">*Felix, qui potuit rerum cognoscere causas.*  
+  Virgil, Georgica, lib. 2[^1]
+  </div>
 
 ---
 
 ## <i class="fas fa-microscope"></i> Microbes  
 
-- de Kruif. *Microbe Hunters.*  
-
 - Ingraham. *March of the Microbes: Sighting the Unseen.*  
+
+- Kirchman. *Processes in Microbial Ecology.*
 
 - Kolter and Chimileski. *Life at the Edge of Sight: A Photographic Exploration of the Microbial World.*  
 
@@ -60,4 +60,7 @@ Virgil, Georgica, lib. 2
 
 - Wimsatt. *Re-Engineering Philosophy for Limited Beings: Piecewise Approximations to Reality.*
 
+---
+
+[^1]: *Fortunate is the person who can know the causes of things.* Virgil, Georgics, book 2
 

@@ -10,6 +10,15 @@
     
     
     <item>
+      <title>Contactar</title>
+      <link>/es/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/contact/</guid>
+      <description>Don’t fill this out if you&#39;re human: </description>
+    </item>
+    
+    <item>
       <title>Esteban Véliz</title>
       <link>/es/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -19,6 +28,16 @@
 BSc Biología Molecular, Celular, y del Desarollo Universidad de California, Los Ángeles (UCLA), Los Ángeles, California, 2017.
  ExperienciaAsistente de Investigación (PI: Venkatesan Sundaresan)Departmento de Biología de Plantas, UC Davis; 2018 - presente 
 Estoy investigando el microbioma de las raíces de arroz (Oryza sativa), particularmento como plantas ensamblan microbiomas en las raíces.</description>
+    </item>
+    
+    <item>
+      <title>Gracias</title>
+      <link>/es/thank-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/thank-you/</guid>
+      <description>Estimado corresponsal,Gracias por tu mensaje. Intentaré responderte oportunamente.Atentamente,
+Esteban Véliz</description>
     </item>
     
     <item>

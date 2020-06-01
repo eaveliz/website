@@ -1,0 +1,9 @@
+---
+title: Thank you
+comments: false
+---
+
+<p>Dear correspondent,</p>  
+<p>Thank you for your message. I will try to respond in a timely manner.  </p>
+Best regards,  
+Esteban Veliz  

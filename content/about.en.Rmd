@@ -1,6 +1,6 @@
 ---
 title: Esteban Veliz
-subtitle: Brief Curriculum Vitae
+subtitle: Brief Curriculum Vitæ
 comments: false
 ---
 
@@ -28,6 +28,9 @@ Investigated symbiotic plant-microbe interactions in the _Medicago_ root nodule 
 ---
 
 ## <i class="fas fa-award"></i> Awards  
+
+Elsie Taylor Stocking Memorial Fellowship: 2020.
+
 National Science Foundation Graduate Research Fellowship (NSF GRFP): 2017 - present. 
 
 UC Davis Dean’s Distinguished Graduate (DDG) Fellowship: 2017 - 2018.  

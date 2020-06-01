@@ -1,6 +1,6 @@
 ---
 title: Esteban Véliz
-subtitle: Currículum Vitae Breve
+subtitle: Currículum Vitæ Breve
 comments: false
 ---
 
@@ -28,7 +28,10 @@ Investigué interacciones simbióticas en el microbioma del nódulo de raíz de 
 
 ---
 
-## <i class="fas fa-award"></i> Becas y Premios  
+## <i class="fas fa-award"></i> Becas y Premios
+
+Elsie Taylor Stocking Memorial Fellowship: 2020.
+
 National Science Foundation Graduate Research Fellowship (NSF GRFP): 2017 - present. 
 
 UC Davis Dean’s Distinguished Graduate (DDG) Fellowship: 2017 - 2018.  

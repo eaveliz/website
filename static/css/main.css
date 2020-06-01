@@ -735,6 +735,36 @@ table tr td :last-child {
   margin-bottom: 0;
 }
 
+/* -- Contact Box -- */
+
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 60%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  float: content-box;
+
+}
+
+input[type=submit] {
+  background-color: #2f4858;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #908393;
+}
+
 /* --- Social media sharing section --- */
 
 #social-share-section {

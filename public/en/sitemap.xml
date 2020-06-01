@@ -36,6 +36,20 @@
   </url>
   
   <url>
+    <loc>/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
+                />
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -82,6 +96,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/thank-you/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/thank-you/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/thank-you/"
                 />
   </url>
   

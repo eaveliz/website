@@ -1,0 +1,33 @@
+---
+title: Contact
+subtitle: Email Esteban
+comments: false
+---
+
+<div class="container">
+  <form name="contact" method="POST" action="/thank-you/" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
+  
+    <div hidden aria-hidden="true">
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+    </div>
+    
+    <p>
+    <input type="text" id="name" name="name" placeholder="Your name" required="true" autocomplete="off">
+    </p>
+
+    <p>
+    <input type="text" id="email" name="email" placeholder="Your email address" required="true" autocomplete="off">
+    </p>
+    
+    <div>
+    <textarea id="message" name="message" placeholder="Message" style="height:200px" required="true" autocomplete="off"></textarea>
+    </div>
+    
+    <div data-netlify-recaptcha="true"></div>
+    
+    <p>
+    <input type="submit" value="Submit">
+    </p>
+
+  </form>
+</div>

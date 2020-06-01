@@ -78,7 +78,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[languages.en.menu.main]]
     identifier = "resources"
     name = "Resources"
-    weight = 10
+    weight = 15
 
 [[languages.en.menu.main]]
     parent = "resources"
@@ -95,7 +95,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[languages.en.menu.main]]
     name = "CV"
     url = "about"
-    weight = 15
+    weight = 20
+    
+[[languages.en.menu.main]]
+    name = "Contact"
+    url = "contact"
+    weight = 25
     
 # --------------------------- Español 
 
@@ -158,9 +163,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #    weight = 3
 
 [[languages.es.menu.main]]
-    name = "CV"
+    name = "Currículum"
     url = "about"
-    weight = 15
+    weight = 20
+    
+[[languages.es.menu.main]]
+    name = "Contactar"
+    url = "contact"
+    weight = 25
 
 # -------------------- End Languages
 
