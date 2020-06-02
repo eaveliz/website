@@ -99,18 +99,4 @@
                 />
   </url>
   
-  <url>
-    <loc>/thank-you/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/thank-you/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/thank-you/"
-                />
-  </url>
-  
 </urlset>
