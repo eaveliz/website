@@ -56,11 +56,9 @@ comments: false
 
 - Bechtel and Richardson. *Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research.*
 
-- Rosen. *Life Itself: A Comprehensive Inquiry Into the Nature, Origin, and Fabrication of Life.*
-
 - Wimsatt. *Re-Engineering Philosophy for Limited Beings: Piecewise Approximations to Reality.*
 
 ---
 
-[^1]: *Fortunate is the person who can know the causes of things.* Virgil, Georgics, book 2
+[^1]: *Fortunate is the one who can know the causes of things.* Virgil, Georgics, book 2
 
