@@ -17,12 +17,12 @@ comments: false
 ---
 
 ## <i class="fas fa-flask"></i> Experiencia
-#### Asistente de Investigación (PI: Venkatesan Sundaresan)  
+#### Asistente de Investigación (IP: Venkatesan Sundaresan)  
 <sup>Departmento de Biología de Plantas, UC Davis; 2018 - presente </sup>  
 Estoy investigando el microbioma de las raíces de arroz (_Oryza sativa_), particularmento como plantas ensamblan microbiomas en las raíces.  
 &nbsp;  
 
-#### Asistente de Investigación (PI: Ann M. Hirsch)    
+#### Asistente de Investigación (IP: Ann M. Hirsch)    
 <sup> Departmento de Biología Molecular, Celular, y del Desarollo, UCLA;  Junio 2015 - Junio 2017 </sup>  
 Investigué interacciones simbióticas en el microbioma del nódulo de raíz de _Medicago_. Usando técnica aséptica, microscopía, extracción de nucleótidos, PCR, y secuenciación, examiné la diversidad funcional y filogenética de las bacterias en el suelo, la rizosfera, y el nódulo de raíz. Hice anotaciones funcionales y análisis bioinformáticas de genomas bacterianas, usando base de datos como JGI IMG-Expert Review, KEGG, CAZy, KOG, y Pfam para hacer predicciones funcionales para validación subsecuente in vitro. Llevé a cabo análisis estadísticos de datos y creé gráficos en R.  
 
