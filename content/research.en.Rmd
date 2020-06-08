@@ -17,7 +17,7 @@ My long-term goal is to develop a microbiome-informed agronomy taking into accou
 
 My interests include:  
 
-- The rhizosphere effect and plant immune interactions with microbiota in microbiome assembly.  
+- The rhizosphere effect and plant immune interactions with the microbiota in community assembly.  
 - The symbiosis continuum of the root and soil microbiome: pathogens, commensals, and mutualists.  
 - The microbial ecology of biogeochemical cycling (e.g., nitrogen and carbon).  
 
