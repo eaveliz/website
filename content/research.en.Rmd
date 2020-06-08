@@ -1,6 +1,6 @@
 ---
 title: Research
-subtitle: Agricultural plant-microbiota interactions
+subtitle: soil - plant - microbiota interactions
 comments: false
 ---
 
@@ -13,14 +13,14 @@ Thomas Henry Huxley
 ---
 
 ## Research Goals and Interests
-My long-term goal is to develop a microbiome-informed agronomy taking into account the evolutionary and ecological complexity of plant-microbiota interactions.
+My long-term goal is to develop a microbiome-informed agronomy taking into account the evolutionary and ecological complexity of plant-microbiota interactions in agricultural soils.
 
 My interests include:  
 
 - The rhizosphere effect and plant immune interactions with microbiota.  
-- Microbial roles in biogeochemical cycles (e.g.,nitrogen and carbon).  
-- The symbiosis spectrum of the root microbiome: pathogens, commensals, and mutualists.  
-- Microbiome dynamics in agricultural systems.  
+- The microbial ecology of biogeochemical cycling (e.g., nitrogen and carbon).  
+- The symbiosis spectrum of the root and soil microbiome: pathogens, commensals, and mutualists.  
+- Other microbial processes and dynamics pertinent to agricultural systems.  
 
 ---
 

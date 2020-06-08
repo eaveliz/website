@@ -1,2 +1,2 @@
-En la actualidad estoy estudiando cómo se ensamblan microbiomas en raíces de plantas agrícolas. Mi investigación se enfoca en procesos y mecanismos que pueden informar el desarrollo de herramientas adecuadas para una intensificación sustentable de la agricultura.
+En la actualidad soy estudiante de doctorado investigando la microbiota de plantas, en particular cómo se ensamblan microbiomas de raíces en suelos agrícolas. Mi investigación se enfoca en procesos y mecanismos que pueden informar el desarrollo de herramientas adecuadas para una intensificación sustentable de la agricultura.  
 ![Esteban en frente de una torre de agua en UC Davis.](/img/frontpicture.png)

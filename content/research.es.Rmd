@@ -1,6 +1,6 @@
 ---
 title: Investigación
-subtitle: Interacciones planta-microbiota agrícolas 
+subtitle: interacciones suelo - planta - microbiota 
 comments: false
 ---
 
@@ -13,14 +13,14 @@ Thomas Henry Huxley
 ---
 
 ## Metas e intereses de investigación
-Mi meta a largo plazo es desarollar una agronomía informada por microbiomas, tomando en cuenta la complejidad ecológica y evolutiva de las interacciones planta-microbiota.
+Mi meta a largo plazo es desarollar una agronomía informada por microbiomas, tomando en cuenta la complejidad ecológica y evolutiva de las interacciones planta-microbiota en suelos agrícolas.
 
 Algunos de mis intereses incluyen:
 
 - El efecto rizosfera e interacciones del sistema imune de plantas con la microbiota.  
-- Los roles microbianos en ciclos biogeoquímicos (como nitrógeno y carbón).
-- El espectro de simbiósis en el microbioma de raíces: patógenos, comensales, y mutualistas.  
-- Dinámicas de microbiomas en sistemas agrícolas.
+- La ecología microbiana en ciclos biogeoquímicos (como los de nitrógeno y carbón).
+- El espectro de simbiósis en el microbioma de raíces y suelos: patógenos, comensales, y mutualistas.  
+- Otros procesos y dinámicas de microbiomas pertinentes a sistemas agrícolas.
 
 ---
 
