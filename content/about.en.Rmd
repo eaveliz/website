@@ -8,7 +8,7 @@ comments: false
 
 ## <i class="fas fa-graduation-cap"></i>Education  
 #### PhD Candidate in Plant Biology  
-<sup> University of California, Davis (UC Davis), Davis, California. In progress.</sup>
+<sup> University of California, Davis (UC Davis), Davis, California. (*in progress*).</sup>
 
 #### BSc in Molecular, Cell, and Developmental Biology (MCDB)  
 <sup> University of California, Los Angeles (UCLA), Los Angeles, California. March 2017.</sup>
