@@ -8,8 +8,8 @@ comments: false
   
   
 ## <i class="fas fa-graduation-cap"></i>Educación  
-#### Candidato PhD en Biología de Plantas  
-<sup> University of California, Davis (UC Davis), Davis, California, 2017 - en progreso.</sup>
+#### (*en progreso*) PhD en Biología de Plantas  
+<sup> Universidad de California, Davis (UC Davis), Davis, California, 2017 - en progreso.</sup>
 
 #### BSc Biología Molecular, Celular, y del Desarollo   
 <sup> Universidad de California, Los Ángeles (UCLA), Los Ángeles, California, 2017.</sup>
