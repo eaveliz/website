@@ -1,6 +1,6 @@
 ---
 title: Research
-subtitle: soil - plant - microbiota interactions
+subtitle: Soil - Plant - Microbiota Interactions
 comments: false
 ---
 
